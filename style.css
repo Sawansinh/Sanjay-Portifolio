@@ -121,3 +121,32 @@ li a:hover {
 #myskills .skill h1 {
     font-size: 20px;
 }
+#myportfolio .work {
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    background-color: rgb(19, 171, 226);
+    opacity: 90%;
+    margin-top: 10px;
+
+} 
+
+#myportfolio .work img {
+    width: 100%;
+}
+
+#myportfolio .work h1 {
+    margin-top: 5px;
+    color: #ffffff;
+}
+
+#myportfolio .work p {
+    margin-top: 5px;
+    color: #ffffff;
+}
+
+#myportfolio .title {
+    margin-left: 3%;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
